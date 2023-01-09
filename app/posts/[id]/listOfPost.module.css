@@ -1,0 +1,10 @@
+.article{
+    min-width: 400px;
+    padding: 10px ;
+    /* border-bottom: 1px solid white; */
+    margin:  20px 0;
+}
+
+.h2{
+    text-align: 'justify';
+}

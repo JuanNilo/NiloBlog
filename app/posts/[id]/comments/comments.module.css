@@ -1,0 +1,15 @@
+.comentario{
+    color:rgb(235, 174, 100);
+    color:lig
+}
+
+.imagen{
+    border-radius: 50%; 
+    border: 3px solid rgb(235, 174, 152);
+    background-color: white;
+}
+
+.container{
+    display: flex;
+    gap: 30px;
+}
